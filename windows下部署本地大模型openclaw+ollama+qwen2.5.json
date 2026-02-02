@@ -82,9 +82,7 @@
     "whatsapp": {
       "dmPolicy": "allowlist",
       "selfChatMode": true,
-      "allowFrom": [
-        "+37254058451"
-      ],
+      "allowFrom": [],
       "groupPolicy": "allowlist",
       "mediaMaxMb": 50,
       "debounceMs": 0
