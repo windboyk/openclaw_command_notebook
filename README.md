@@ -1,6 +1,6 @@
 # openclaw_command_notebook
 openclaw相关笔记
-- 重新安装openclaw
+- 重新部署openclaw
 ```bash
 openclaw onboard
 ```
