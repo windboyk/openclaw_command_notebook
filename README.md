@@ -24,6 +24,11 @@ npx clawhub@latest install gemini
 npm uninstall -g clawdbot moltbot openclaw
 ```
 
+## 配置好telegram后，需要Pairing
+```bash
+openclaw pairing approve telegram <Pairing Code>
+```
+
 ## 安装最新版的openclaw(老macbook macOS V12.7.6只能使用npm方式安装)
 用openclaw的一键安装脚本，会提示不支持v12以下的版本
 去[nodejs官网](https://nodejs.org)下载最新的nodejs进行安装
