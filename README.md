@@ -20,12 +20,12 @@ openclaw gateway restart
 npx clawhub@latest install gemini
 ```
 
--卸载openclaw
+- 卸载openclaw
 ```bash
 npm uninstall -g clawdbot moltbot openclaw
 ```
 
--安装最新版的openclaw(老macbook macOS V12.7.6只能使用npm方式安装)
+- 安装最新版的openclaw(老macbook macOS V12.7.6只能使用npm方式安装)
 用openclaw的一键安装脚本，会提示不支持v12以下的版本
 去nodejs.org官网下载最新的nodejs进行安装
 ```bash
